@@ -153,11 +153,14 @@ table {
     background-color: red;
     color: white;
     font-size: 24px;
+    float: right;
+
 }
 
 .input-search {
     width: 55vh;
     font-size: 18px;
+    float: left;
 }
 
 .sepetim {
