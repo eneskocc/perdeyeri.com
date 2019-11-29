@@ -412,3 +412,7 @@ table {
     font-family: "Roboto";
     font-weight: 400;
 }
+
+.w-100{
+    width: 160vh !important;
+}
